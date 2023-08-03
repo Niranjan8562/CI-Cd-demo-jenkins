@@ -7,7 +7,7 @@
 	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
 
-	<name>new-app</name>
+	<name>demo-jenkins</name>
 
 	<description/>
 	<properties>
@@ -42,11 +42,12 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>managed-services-training-04-7-23</username>
 						<password>nIRANJANPOTTER@1997</password>
-						<applicationName>mvn-test-145</applicationName>
+						<applicationName>jenkins-test-144</applicationName>
 						<businessGroupId>231d756c-3429-41d6-b212-df94ac62d5ea</businessGroupId>
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 					</cloudhub2Deployment>
+					<classifier>mule-application</classifier>
 				</configuration>
 			</plugin>
 		</plugins>
