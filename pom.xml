@@ -40,7 +40,7 @@
 						<environment>Sandbox</environment>
 						<target>Cloudhub-US-East-2</target>
 						<muleVersion>4.4.0</muleVersion>
-						<username>managed-services-training-04-7-23</username>
+						<username>managed-services-training-05-8-23</username>
 						<password>nIRANJANPOTTER@1997</password>
 						<applicationName>jenkins-test-144</applicationName>
 						<businessGroupId>231d756c-3429-41d6-b212-df94ac62d5ea</businessGroupId>
