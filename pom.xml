@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>231d756c-3429-41d6-b212-df94ac62d5ea</groupId>
-	<artifactId>new-app</artifactId>
+	<artifactId>demo-jenkins</artifactId>
 	<version>1.0.2</version>
 	<packaging>mule-application</packaging>
 
@@ -43,7 +43,7 @@
 						<username>managed-services-training-05-8-23</username>
 						<password>nIRANJANPOTTER@1997</password>
 						<applicationName>jenkins-test-1145454</applicationName>
-						<businessGroupId>231d756c-3429-41d6-b212-df94ac62d5ea</businessGroupId>
+						<businessGroupId>c15cdac4-a344-4bad-bed5-8dc51bffd9e9</businessGroupId>
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 					</cloudhub2Deployment>
