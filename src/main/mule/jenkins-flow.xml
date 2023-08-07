@@ -20,6 +20,6 @@ output application/json
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
-		<logger level="INFO" doc:name="Logger" doc:id="2c2c71fc-63c7-462f-91ab-723648f627fd" message="#[payload]"/>
+		<logger level="INFO" doc:name="Logger" doc:id="2c2c71fc-63c7-462f-91ab-723648f627fd" message="jenkins flow ended"/>
 	</flow>
 </mule>
