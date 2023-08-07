@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>231d756c-3429-41d6-b212-df94ac62d5ea</groupId>
+	<groupId>c15cdac4-a344-4bad-bed5-8dc51bffd9e9</groupId>
 	<artifactId>demo-jenkins</artifactId>
 	<version>1.0.2</version>
 	<packaging>mule-application</packaging>
@@ -47,7 +47,6 @@
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 					</cloudhub2Deployment>
-					<classifier>mule-application</classifier>
 				</configuration>
 			</plugin>
 		</plugins>
