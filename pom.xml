@@ -34,19 +34,17 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-					<cloudhub2Deployment>
+					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<provider>MC</provider>
-						<environment>Sandbox</environment>
-						<target>Cloudhub-US-East-2</target>
 						<muleVersion>4.4.0</muleVersion>
 						<username>managed-services-training-05-8-23</username>
 						<password>nIRANJANPOTTER@1997</password>
-						<applicationName>jenkins-test-1111</applicationName>
-						<businessGroupId>c15cdac4-a344-4bad-bed5-8dc51bffd9e9</businessGroupId>
-						<replicas>1</replicas>
-						<vCores>0.1</vCores>
-					</cloudhub2Deployment>
+						<applicationName>jenkins-app-121212</applicationName>
+						<environment>Sandbox</environment>
+						<workers>1</workers>
+						<workerType>MICRO</workerType>
+						<objectStoreV2>true</objectStoreV2>
+					</cloudHubDeployment>
 				</configuration>
 			</plugin>
 		</plugins>
